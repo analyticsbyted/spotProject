@@ -1,3 +1,5 @@
+###  Author:  Ted dickey v###
+
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from prettytable import PrettyTable
